@@ -1,0 +1,6 @@
+﻿region,forecast_sessions,actual_sessions,forecast_cvr,actual_cvr,forecast_nmv_cop_mm,actual_nmv_cop_mm,media_pacing_index
+Bogotá,205000,185000,0.036,0.029,510,455,88
+Medellín,98000,121000,0.034,0.039,235,322,104
+Cali,72000,79000,0.034,0.035,171,194,101
+Barranquilla,48000,50000,0.033,0.032,110,112,98
+Medellin,0,9000,0,0.041,0,25,106
